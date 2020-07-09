@@ -1,10 +1,18 @@
 ### Hi there 👋
 
+I’m currently mainly working on 
+- [AdventureLookup/AdventureLookup](https://github.com/AdventureLookup/AdventureLookup): A website for finding tabletop adventures.
+- [free-pdk](https://github.com/free-pdk): Reverse Engineering of [Padauk](http://www.padauk.com.tw/) mikrocontrollers.
+- [cmfcmf/train-game](https://github.com/cmfcmf/train-game): A train game where you can drive a train around **all** of Germany, based on map data from OpenStreetMap and other data from German government institutions. 
+- [cmfcmf/ic-pinout-diagram-generator](https://github.com/cmfcmf/ic-pinout-diagram-generator): An interactive pinout diagram generator for integrated circuits.
+
+#### Contributions I'm proud of
+
+- I contributed to Visual Studio Code 🎉
+  My contribution allows tasks to be configured to run side by side in the same terminal: 
+  https://github.com/microsoft/vscode/pull/65973
+
 <!--
-**cmfcmf/cmfcmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
