@@ -6,6 +6,19 @@ I’m currently mainly working on
 - [cmfcmf/ic-pinout-diagram-generator](https://github.com/cmfcmf/ic-pinout-diagram-generator): An interactive pinout diagram generator for integrated circuits.
 - [AdventureLookup/AdventureLookup](https://github.com/AdventureLookup/AdventureLookup): A website for finding tabletop adventures.
 
+
+### Libraries I Published
+
+#### [cmfcmf/OpenWeatherMap-PHP-API](https://github.com/cmfcmf/OpenWeatherMap-PHP-API)
+
+An API wrapper for OpenWeatherMap.org written in PHP.
+
+⚡ Fun fact: This was the first time I ever used namespaces.
+
+#### [cmfcmf/docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local)
+
+Offline search support for documentation created with Docusaurus.
+
 ### Documentation I've written
 
 Writing code is not everything. I also regularly contribute to documentation, be it the introduction of new documentation 
@@ -58,6 +71,16 @@ aimed at both developers and non-developers.
 I try to be encouraging and supportive to all contributors, because I know how much of a difference the behavior of people you are interacting with can make.
 I try not to use discouraging language like "You *just/simply* need to fix that."
 
+### Security Vulnerabilies I discovered
+
+Around 2014, I was particularly interested in security vulnerarbilities and eventually found three vulnerabilities on big websites.
+While I no longer actively search for vulnerabilities, my knowledge and experience with them often helps me avoid them in code I write and review. 
+
+- I found an Open Redirect Vulnerability on **twitch.tv**, that apparently had already been reported but not yet been fixed.
+- I found an Open Redirect Vulnerability on **tumblr.com**, which I eventually received a bounty for.
+- I found a way to check if a private repository with a given name exists on **github.com**, which was out of scope of the bounty program at that time. 
+  I got some cool GitHub swag though!
+
 ### Weird Projects
 
 These are projects that are a bit unusual at first glance :mag:
@@ -82,19 +105,7 @@ Jupyter Notebook-like environment for TruffleSqueak/Smalltalk that lets you use 
 
 ⚡ Fun fact: We wrote a paper! "PolyJuS: a Squeak/Smalltalk-based polyglot notebook system for the GraalVM"
 
-### Libraries I Published
-
-#### [cmfcmf/OpenWeatherMap-PHP-API](https://github.com/cmfcmf/OpenWeatherMap-PHP-API)
-
-An API wrapper for OpenWeatherMap.org written in PHP.
-
-⚡ Fun fact: This was the first time I ever used namespaces.
-
-#### [cmfcmf/docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local)
-
-Offline search support for documentation created with Docusaurus.
-
-### Contributions/Code I'll always remember
+### Contributions/Code I'm particularly proud of
 
 - :tada: [I contributed to Visual Studio Code](https://github.com/microsoft/vscode/pull/65973)  
   My contribution allows tasks to be configured to run side by side in the same terminal.
