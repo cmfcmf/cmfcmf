@@ -2,7 +2,7 @@
 
 I’m currently mainly working on 
 - [free-pdk](https://github.com/free-pdk): Reverse Engineering of [Padauk](http://www.padauk.com.tw/) mikrocontrollers.
-- [cmfcmf/train-game](https://github.com/cmfcmf/train-game): A train game where you can drive a train around **all** of Germany, based on map data from OpenStreetMap and other data from German government institutions. 
+- [cmfcmf/train-game](https://github.com/cmfcmf/train-game): A train game where you can drive a train around **all** of Germany, based on map data from OpenStreetMap and other data from German government institutions, written in C++ and Vulkan.
 - [cmfcmf/ic-pinout-diagram-generator](https://github.com/cmfcmf/ic-pinout-diagram-generator): An interactive pinout diagram generator for integrated circuits.
 - [AdventureLookup/AdventureLookup](https://github.com/AdventureLookup/AdventureLookup): A website for finding tabletop adventures.
 
@@ -14,13 +14,30 @@ Writing code is not everything. I also regularly contribute to documentation, be
 
 ##### [AdventureLookup/AdventureLookup](https://github.com/AdventureLookup/AdventureLookup) *#PHP, #Symfony, #ElasticSearch*
 
-A community-driven website for finding tabletop adventures.  
+A community-driven website for finding tabletop adventures.
+
 ⚡ Fun fact: I prototyped the concept in about a week with the goal of creating a minimal viable product. And it worked, people liked it, and the website went live!   
 
 ##### cmfcmf/CFRC (private repository) *#TypeScript, #Node.js, #Redux, #Material-UI*
 
 A model railroad control software with back- and frontend written in TypeScript
+
 ⚡ Fun fact: Both server and client are running Redux. All state is synchronized between all clients and the server.  
+
+##### [zikula/core](https://github.com/zikula/core)
+
+Zikula (previously named PostNuke) is a content management framework written in PHP.
+I was one of the lead developers from 
+[~2013 to ~2016](https://github.com/zikula/core/graphs/contributors?from=2012-08-15&to=2016-09-22&type=c)
+and created more than 
+[150](https://github.com/zikula/core/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3Acmfcmf)
+issues and more than
+[250](https://github.com/zikula/core/pulls?q=is%3Apr+author%3Acmfcmf+is%3Amerged+sort%3Acomments-desc)
+pull requests during this time. 
+One of my biggest projects was 
+[integrating the Symfony Router](https://github.com/zikula/core/pulls?q=is%3Apr+author%3Acmfcmf+is%3Amerged+sort%3Acomments-desc+route).
+
+⚡ Fun fact: Working on Zikula taught me a lot about the importance of keeping backwards compatibility and all the problems that come with it.
 
 #### Community Management
 
@@ -49,19 +66,22 @@ A rewrite of the 20-year old game Anno1602 in TypeScript. This includes reverse 
 
 ##### PolyCode Editor (private repository)
 
-A code editor written in TruffleSqueak/Smalltalk, that allows you to combine multiple programming languages in the same file.  
+A code editor written in TruffleSqueak/Smalltalk, that allows you to combine multiple programming languages in the same file.
+
 ⚡ Fun fact: We had to extend the existing text box implementation that could only handle `CR` newlines to also properly support `LF` and `CRLF`. We also wrote a binary viewer.
 
 ##### PolyJuS Notebooks (private repository)
 
-Jupyter Notebook-like environment for TruffleSqueak/Smalltalk that lets you use multiple programming languages in one notebook. 
+Jupyter Notebook-like environment for TruffleSqueak/Smalltalk that lets you use multiple programming languages in one notebook.
+
 ⚡ Fun fact: We wrote a paper! "PolyJuS: a Squeak/Smalltalk-based polyglot notebook system for the GraalVM"
 
 #### Libraries I Published
 
 ##### [cmfcmf/OpenWeatherMap-PHP-API](https://github.com/cmfcmf/OpenWeatherMap-PHP-API)
 
-An API wrapper for OpenWeatherMap.org written in PHP.  
+An API wrapper for OpenWeatherMap.org written in PHP.
+
 ⚡ Fun fact: This was the first time I ever used namespaces.
 
 ##### [cmfcmf/docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local)
@@ -72,8 +92,6 @@ Offline search support for documentation created with Docusaurus.
 
 - :tada: [I contributed to Visual Studio Code](https://github.com/microsoft/vscode/pull/65973)  
   My contribution allows tasks to be configured to run side by side in the same terminal.
-- :tada: [I integrated the Symfony Router into the web framework Zikula](https://github.com/zikula/core/pull/1519).  
-  This was a huge task for me at the time and was way more complicated then I expected. 
 - :tada: My [first pull request from 2012](https://github.com/zikula/core/pull/455), which was my first ever contribution to open source software.
 
 <!--
