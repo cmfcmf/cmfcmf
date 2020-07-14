@@ -58,6 +58,10 @@ One of my biggest projects was
 
 ⚡ Fun fact: Working on Zikula taught me a lot about the importance of keeping backwards compatibility and all the problems that come with it.
 
+<details>
+<summary>More Projects and Interests</summary>
+
+
 ### Community Management
 
 I try to make contributing to my bigger projets 
@@ -114,3 +118,6 @@ Jupyter Notebook-like environment for TruffleSqueak/Smalltalk that lets you use 
 <!--
 - :tada: [The first time I ever wrote a sort algorithm](https://github.com/cmfcmf/RoboRally/blob/5184683c929d396ff5c3df859bcb1d591f7e9b36/Source/Master.nxc#L141-L158)
 -->
+
+</details>
+
