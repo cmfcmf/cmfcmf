@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 I’m currently mainly working on 
-- [free-pdk](https://github.com/free-pdk): Reverse Engineering of [Padauk](http://www.padauk.com.tw/) mikrocontrollers.
-- [cmfcmf/train-game](https://github.com/cmfcmf/train-game): A train game where you can drive a train around **all** of Germany, based on map data from OpenStreetMap and other data from German government institutions, written in C++ and Vulkan.
-- [cmfcmf/ic-pinout-diagram-generator](https://github.com/cmfcmf/ic-pinout-diagram-generator): An interactive pinout diagram generator for integrated circuits.
+- [cmfcmf/docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local): A local/offline search plugin for Docusaurus v2.
 - [AdventureLookup/AdventureLookup](https://github.com/AdventureLookup/AdventureLookup): A website for finding tabletop adventures.
+- [free-pdk](https://github.com/free-pdk): Reverse Engineering of [Padauk](http://www.padauk.com.tw/) mikrocontrollers.
 
 
 ### Libraries I Published
@@ -73,7 +72,6 @@ I aim to provide easy to setup development environments, including browser-based
 I write [extensive contributing guidelines](https://github.com/AdventureLookup/AdventureLookup/blob/dev/CONTRIBUTING.md) 
 aimed at both developers and non-developers.
 I try to be encouraging and supportive to all contributors, because I know how much of a difference the behavior of people you are interacting with can make.
-I try not to use discouraging language like "You *just/simply* need to fix that."
 
 ### Security Vulnerabilies I discovered
 
