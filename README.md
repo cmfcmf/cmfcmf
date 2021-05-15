@@ -1,22 +1,21 @@
 ## Hi there 👋
 
+I am a college graduate from [Hasso Plattner Institute (HPI)](https://hpi.de/en) with a master's degree in [IT-Systems Engineering](https://hpi.de/en/studies/before-the-study/degree-programs/master/it-systems-engineering.html). More about me [on my website](https://christianflach.de/).
+
+
+<p>I frequently contribute to open source software and maintain libraries with<!-- --> <a href="https://packagist.org/packages/cmfcmf/openweathermap-php-api" target="_blank" rel="nofollow noopener">hundreds</a> <!-- -->of<!-- --> <a href="https://www.npmjs.com/package/@cmfcmf/docusaurus-search-local" target="_blank" rel="nofollow noopener">downloads</a> <!-- -->per week. One of my oldest still-in-use open source projects is<!-- --> <a href="https://github.com/cmfcmf/OpenWeatherMap-PHP-API" target="_blank" rel="nofollow noopener">more than 8 years old</a>. To date, I have made more than<!-- --> <a href="https://github.com/search?q=is%3Apr+author%3Acmfcmf+sort%3Aupdated-desc" target="_blank" rel="nofollow noopener">900 pull requests</a> <!-- -->to projects big and small, ranging from<!-- --> <a href="https://github.com/microsoft/vscode/pull/65973" target="_blank" rel="nofollow noopener">introducing new features to <strong>Visual Studio Code</strong></a>,<!-- --> <a href="https://github.com/reduxjs/react-redux/pull/1278" target="_blank" rel="nofollow noopener">adding features to <strong>react-redux</strong></a>,<!-- --> <a href="https://github.com/caddyserver/caddy/pull/3758" target="_blank" rel="nofollow noopener">fixing bugs in the <strong>Caddy web server</strong></a>,<!-- --> <a href="https://github.com/free-pdk/free-pdk.github.io/pull/3" target="_blank" rel="nofollow noopener">rewriting documentation</a>, to<!-- --> <a href="https://github.com/mui-org/material-ui/pull/13107" target="_blank" rel="nofollow noopener">fixing</a> <a href="https://github.com/sindresorhus/refined-github/pull/1287" target="_blank" rel="nofollow noopener">minor</a> <a href="https://github.com/badaix/snapcast/pull/536" target="_blank" rel="nofollow noopener">bugs</a> <a href="https://github.com/supasate/connected-react-router/pull/273" target="_blank" rel="nofollow noopener">and</a> <a href="https://github.com/raspberrypi/pico-sdk/pull/236" target="_blank" rel="nofollow noopener">typos</a>.</p>
+
 I’m currently mainly working on 
 - [cmfcmf/docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local): A local/offline search plugin for Docusaurus v2.
-- [AdventureLookup/AdventureLookup](https://github.com/AdventureLookup/AdventureLookup): A website for finding tabletop adventures.
-- [free-pdk](https://github.com/free-pdk): Reverse Engineering of [Padauk](http://www.padauk.com.tw/) mikrocontrollers.
+- [cmfcmf/roc-and-roll](https://github.com/cmfcmf/roc-and-roll): A virtual tabletop simulator for D&D
 
 
-### Libraries I Published
+### My Libraries
 
-#### [cmfcmf/OpenWeatherMap-PHP-API](https://github.com/cmfcmf/OpenWeatherMap-PHP-API)
-
-An API wrapper for OpenWeatherMap.org written in PHP.
-
-⚡ Fun fact: This was the first time I ever used namespaces.
-
-#### [cmfcmf/docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local)
-
-Offline search support for documentation created with Docusaurus.
+| Repository | Description |
+| -- | -- |
+| [cmfcmf/OpenWeatherMap-PHP-API](https://github.com/cmfcmf/OpenWeatherMap-PHP-API) | A PHP API wrapper for global weather data from OpenWeatherMap.org. This project is more than 8 years old and still continuously maintained by me. |
+| [cmfcmf/docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local) | A plugin that provides offline/local search that works behind a company firewall. It uses lunr.js for providing search functionality. |
 
 ### Documentation I've written
 
@@ -33,8 +32,7 @@ I contribute.
 #### [AdventureLookup/AdventureLookup](https://github.com/AdventureLookup/AdventureLookup) *#PHP, #Symfony, #ElasticSearch*
 
 A community-driven website for finding tabletop adventures.
-
-⚡ Fun fact: I prototyped the concept in about a week with the goal of creating a minimal viable product. And it worked, people liked it, and the website went live!   
+I prototyped the concept in about a week with the goal of creating a minimal viable product. And it worked, people liked it, and the website went live!   
 
 #### cmfcmf/CFRC (private repository) *#TypeScript, #Node.js, #Redux, #Material-UI*
 
